@@ -13,6 +13,8 @@ Product leader and founder focused on healthcare, AI, education, and regulated p
 
 ## Selected Products
 
+My portfolio: https://www.brightervibes.org/portfolio
+
 ### Brighter Vibes SEL
 FERPA-compliant K–12 SEL platform with 400+ clinically sequenced lessons, personalized AI coaching, RAG architecture, evaluation criteria, safety guardrails, and human handoffs.
 
