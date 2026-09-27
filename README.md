@@ -18,8 +18,12 @@ My portfolio: https://www.brightervibes.org/portfolio
 ### Brighter Vibes SEL
 FERPA-compliant K–12 SEL platform with 400+ clinically sequenced lessons, personalized AI coaching, RAG architecture, evaluation criteria, safety guardrails, and human handoffs.
 
-### Abrite
-Regulated financial services platform with auditable workflows, automated reporting, and traceable system activity.
+### Abrite FMS
+Financial Management Services for families in California's Self-Determination Program. Abrite helps people with developmental disabilities and their families use their program budget with confidence: paying the providers they choose, keeping spending on track, and giving everyone involved a clear, accurate picture of where things stand.
+
+- **Families** — a bilingual (English / Spanish) portal to see their budget, submit receipts, track payments, and reach support
+- **Providers and coordinators** — a simple way to get paid, and read-only visibility for the team a family chooses
+- **Built for accountability** — auditable workflows, automated reporting, and traceable system activity
 
 ### TrailKids
 Sensory-friendly family hiking discovery and personalized 4-week planning with gradual difficulty.
