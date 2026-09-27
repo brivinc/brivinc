@@ -1,6 +1,6 @@
 # Madhura Pednekar
 
-**Product Leader & Hands-on Builder**
+**Founder & Hands-on Product Builder**
 
 Product leader and founder focused on healthcare, AI, education, and regulated products. I build 0→1 products from strategy through launch.
 
